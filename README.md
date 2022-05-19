@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @danielAmar02
 - 👀 I’m an AI engineer graduated from Dauphine and École Nationale de la Statistique et de l'Administration Économique. My main topics of interest are Times Series prediction and Computer Vision.
+- 🇮🇱 I am living in Israel.
 - 📫 You can reach me on daniel.amar@ensae.fr 
 
 <!---
